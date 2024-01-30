@@ -1,4 +1,4 @@
-**GIT Homework 1**
+**GIT Homework 1** 
 
 __Для выполнения задания у вас должен быть установлен для Windows - GitBash.
 Создан аккаунт в GitHub__
